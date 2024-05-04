@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter: Launch on Chrome",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "chrome"
+        },
+        {
+            "name": "Flutter: Launch on Android Emulator",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "flutter"
+        },
+        {
+            "name": "Flutter: Launch on iOS Simulator",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "ios"
+        },
+        {
+            "name": "Flutter: Launch on Web (Chrome)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "web"
+        },
+        {
+            "name": "Flutter: Launch on Desktop (Windows, macOS, Linux)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "windows"
+        }
+    ]
+}
